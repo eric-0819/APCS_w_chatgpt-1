@@ -1,1 +1,8 @@
-## 這是酷課雲 寒假講座 -- 如何利用chatgpt 自學程式--以APCS 為例
+#include<iostream>
+using namespace std;
+
+int main(){
+    
+    cout << "hello world" <<endl;
+    
+}
